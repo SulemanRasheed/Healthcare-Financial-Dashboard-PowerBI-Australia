@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](Dashboard.png)
 
-This interactive dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics. It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
+This interactive Power BI dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics. It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
 
 Designed for hospital administrators, policy analysts, and health service researchers to:
 - Benchmark costs by procedure and department
@@ -26,25 +26,6 @@ Designed for hospital administrators, policy analysts, and health service resear
 
 ---
 
-## 📍 Use Case
-
-Designed for hospital administrators, policy analysts, and health service researchers to:
-
-- Benchmark costs by procedure and department
-- Understand disparities in care costs across demographic groups
-- Explore regional variation in healthcare spending
-
----
-
-## 🛠️ Tools Used
-
-- **Power BI Desktop** for report development and layout
-- **DAX** for custom measures (e.g., % contribution by department)
-- **Power Query** for city mapping and data preprocessing
-- **OpenStreetMap** (via Bing) for interactive maps
-
----
-
 ## 🧪 Sample Insight
 
 > *Orthopedics accounts for over 40% of total billing in 2025, with average treatment costs surpassing all other departments.*
@@ -65,5 +46,4 @@ Email: SulemanRasheedEngr@gmail.com
 ---
 
 ## 📄 License
-
 This project is open for educational and portfolio use. Attribution appreciated.
