@@ -1,5 +1,6 @@
-# Healthcare-Financial-Dashboard-PowerBI-Australia
 # 🏥 Healthcare Provider Dashboard (Power BI)
+
+![Dashboard Preview](images/dashboard.png)
 
 This interactive dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics.  
 It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
@@ -39,7 +40,7 @@ Designed for hospital administrators, policy analysts, and health service resear
 |------|-------------|
 | `healthcare-dashboard.pbix` | Power BI report file |
 | `sample-data.csv` | Cleaned and anonymized sample dataset |
-| `images/` | Screenshots for preview |
+| `images/dashboard.png` | Full dashboard screenshot |
 | `publish-link.txt` | Public Power BI report URL (if applicable) |
 
 ---
@@ -77,4 +78,3 @@ PhD in Computer Science | Data Scientist | Health Analytics Enthusiast
 ## 📄 License
 
 This project is open for educational and portfolio use. Attribution appreciated.
-
