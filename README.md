@@ -39,11 +39,8 @@ This dashboard uses **synthetic or anonymized data** modeled on UK healthcare co
 
 ## 📌 Author
 
-**Suleman**  
-PhD in Biomedical Engineering | Data Scientist   
+**Suleman Rasheed**  
+Biomedical Engineer | Data Scientist   
 Email: SulemanRasheedEngr@gmail.com
 
 ---
-
-## 📄 License
-This project is open for educational and portfolio use. Attribution appreciated.
