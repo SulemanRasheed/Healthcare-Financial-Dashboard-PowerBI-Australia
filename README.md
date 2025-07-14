@@ -38,9 +38,9 @@ This dashboard uses **synthetic or anonymized data** modeled on UK healthcare co
 ---
 
 ## 📌 Author
-
 **Suleman Rasheed**  
-Biomedical Engineer | Data Scientist   
-Email: SulemanRasheedEngr@gmail.com
-LinkedIn: https://www.linkedin.com/in/suleman-rasheed/
+Biomedical Engineer | Data Scientist  
+📧 [SulemanRasheedEngr@gmail.com](mailto:SulemanRasheedEngr@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/suleman-rasheed/)
+
 ---
