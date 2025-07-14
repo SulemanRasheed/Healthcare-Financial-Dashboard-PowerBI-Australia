@@ -42,5 +42,5 @@ This dashboard uses **synthetic or anonymized data** modeled on UK healthcare co
 **Suleman Rasheed**  
 Biomedical Engineer | Data Scientist   
 Email: SulemanRasheedEngr@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/suleman-rasheed/
 ---
