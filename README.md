@@ -1,6 +1,6 @@
 # 🏥 Healthcare Provider Dashboard (Power BI)
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard.png)
 
 This interactive dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics.  
 It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
