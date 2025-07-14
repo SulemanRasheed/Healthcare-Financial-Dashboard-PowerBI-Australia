@@ -2,10 +2,12 @@
 
 ![Dashboard Preview](Dashboard.png)
 
-This interactive dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics.  
-It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
+This interactive dashboard visualizes healthcare billing data across Australian cities, procedures, departments, and demographics. It provides insights into treatment costs, insurance coverage, and patient out-of-pocket expenses, with dynamic filtering by year and ethnicity.
 
-🔗 [Live Dashboard (Public Link)](https://app.powerbi.com/view?r=YOUR_PUBLIC_LINK_HERE)
+Designed for hospital administrators, policy analysts, and health service researchers to:
+- Benchmark costs by procedure and department
+- Understand disparities in care costs across demographic groups
+- Explore regional variation in healthcare spending
 
 ---
 
@@ -34,17 +36,6 @@ Designed for hospital administrators, policy analysts, and health service resear
 
 ---
 
-## 📁 Files Included
-
-| File | Description |
-|------|-------------|
-| `healthcare-dashboard.pbix` | Power BI report file |
-| `sample-data.csv` | Cleaned and anonymized sample dataset |
-| `images/dashboard.png` | Full dashboard screenshot |
-| `publish-link.txt` | Public Power BI report URL (if applicable) |
-
----
-
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** for report development and layout
@@ -61,17 +52,15 @@ Designed for hospital administrators, policy analysts, and health service resear
 ---
 
 ## ⚠️ Data Notice
-
-This dashboard uses **synthetic or anonymized data** modeled on UK healthcare cost structures and mapped to Australian cities for demonstration purposes only.  
-No real patient data is included.
+This dashboard uses **synthetic or anonymized data** modeled on UK healthcare cost structures and mapped to Australian cities for demonstration purposes only. No real patient data is included.
 
 ---
 
 ## 📌 Author
 
 **Suleman**  
-PhD in Computer Science | Data Scientist | Health Analytics Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK) | [Portfolio](https://yourwebsite.com)
+PhD in Biomedical Engineering | Data Scientist   
+Email: SulemanRasheedEngr@gmail.com
 
 ---
 
