@@ -33,7 +33,7 @@ Designed for hospital administrators, policy analysts, and health service resear
 ---
 
 ## ⚠️ Data Notice
-This dashboard uses **synthetic or anonymized data** modeled on UK healthcare cost structures and mapped to Australian cities for demonstration purposes only. No real patient data is included. The original UK data can be accessed at ![Link](https://www.youtube.com/watch?v=hm4Iq2Mm2pQ&t=410s)
+This dashboard uses **synthetic or anonymized data** modeled on UK healthcare cost structures and mapped to Australian cities for demonstration purposes only. No real patient data is included. The original UK data can be accessed at [Link](https://www.youtube.com/watch?v=hm4Iq2Mm2pQ&t=410s)
 
 ---
 
